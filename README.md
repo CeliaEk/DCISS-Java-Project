@@ -7,4 +7,4 @@ Découverte de la programmation par aspect.
 
 
 # Environnement de developpement 
-Java, Eclipse, AspectJ.
+Java, Eclipse, AspectJ, Swing.
